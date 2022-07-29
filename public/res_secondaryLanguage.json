@@ -1,53 +1,47 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "مرحبا",
+      "description": " .انا عمر قطام. محترف مسؤول عن العمل على عمليات التطوير الأمامية والخلفية. أقوم بتصميم وتطوير وصيانة منصات كاملة وعاملة مع قواعد بيانات أو خوادم👋",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "عني",
+        "projects": "مشاريع",
+        "skills": "مهارات",
+        "experience": "الخبرات"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Unlimited Art",
+        "startDate": "2022",
+        "description": "ART is one of the few websites which is like the idea.good UX means your site is enjoyable to use and functions properly.spreading knowledge about all kinds of art, giving as much daily updated information as possible about everything related to art, and selling all equipment related to art.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Art/p1.png",
+          "images/portfolio/Art/p2.png",
+          "images/portfolio/Art/p3.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://github.com/OmarQatt/UnlimatedArt",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Nextjs"
+          }
+        ]
+      },
+      {
+        "title": "Art",
+        "startDate": "2018",
+        "description": "ART is one of the few websites which is like the idea.good UX means your site is enjoyable to use and functions properly.spreading knowledge about all kinds of art, giving as much daily updated information as possible about everything related to art, and selling all equipment related to art.",
+        "images": [
+          "images/portfolio/regularart/p1.png",
+          "images/portfolio/regularart/p2.png"
+        ],
+        "url": "https://github.com/OmarQatt/Art",
+        "technologies": [
+        
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -57,24 +51,19 @@
       {
         "title": "3D Object Viewer",
         "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "description": "create an application that displays images and information of horned animals. This application will allow you to filter the images by number of horns and chose your favorite image Using React.JS",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/hornedbeast/p1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/OmarQatt/react-project",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
@@ -94,7 +83,7 @@
           "Bootstrap",
           "MDBootstrap",
           "EF Core",
-          "Angular Material"
+          " Material"
         ]
       },
       {
